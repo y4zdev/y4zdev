@@ -36,8 +36,6 @@ Hi there! I'm a **freelancer** with a passion for **web development**, **full-st
 
 - **Website**: [www.y4z.dev](https://www.y4z.dev)
 - **GitHub**: [Y4ZDev](https://github.com/y4zdev/)
-- **LinkedIn**: [Your LinkedIn](#)
-- **Twitter**: [@YourTwitter](#)
 
 ---
 
