@@ -9,13 +9,13 @@ Hi there! I'm a **freelancer** with a passion for **web development**, **full-st
 - **Web Development**: I build **dynamic, responsive** websites that offer seamless user experiences.
 - **Full Stack Development**: From **front-end** to **back-end**, I create **scalable solutions** for modern web applications.
 - **Discord Bot Development**: I design **custom Discord bots** with powerful features for seamless community engagement.
-- **Database Systems**: Expertise in **Bun SQLite**, designing efficient and optimized database interactions.
+- **Database Systems**: Expertise in **SQLite**, designing efficient and optimized database interactions.
 
 ### 🛠️ **Technologies & Tools I Use:**
 
-- **Languages**: JavaScript (Bun), HTML, CSS
+- **Languages**: JavaScript, HTML, CSS, C++, Python 
 - **Frameworks**: React, Node.js
-- **Databases**: SQLite, PostgreSQL
+- **Databases**: SQLite, Mysql, MongoDB
 - **DevOps**: Docker, Git, GitHub Actions
 - **Tools**: VS Code, Postman, WireGuard
 
