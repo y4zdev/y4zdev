@@ -34,8 +34,8 @@ Hi there! I'm a **freelancer** with a passion for **web development**, **full-st
 
 ### 📬 **Let's Connect:**
 
-- **Website**: [Your Website](#)
-- **GitHub**: [Your GitHub Profile](#)
+- **Website**: [www.y4z.dev](https://www.y4z.dev)
+- **GitHub**: [Y4ZDev](https://github.com/y4zdev/)
 - **LinkedIn**: [Your LinkedIn](#)
 - **Twitter**: [@YourTwitter](#)
 
