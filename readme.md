@@ -1,7 +1,6 @@
 # 👨‍💻 About Me
 
 Hi there! I'm a **freelancer** with a passion for **web development**, **full-stack development**, and creating **Discord apps**. Currently, I'm expanding my skill set while working on exciting projects.
-
 ---
 
 ### 💼 **What I Do:**
@@ -34,7 +33,6 @@ Hi there! I'm a **freelancer** with a passion for **web development**, **full-st
 ### 🤝 **I'm Open to Collaborations**:
 
 - Always looking for **exciting projects** and opportunities to work with talented developers and teams. Let's create something amazing together!
-
 
 > [!NOTE] 
 > ⚡ **Fun Fact**: I love problem-solving and bringing creative ideas to life through code! 
