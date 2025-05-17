@@ -1,38 +1,45 @@
-# 👨‍💻 About Me
+<h1 align="center">👨‍💻 About Me</h1>
+<p align="center">Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.</p>
+<hr />
 
-Hi there! I'm a **freelancer** with a passion for **web development**, **full-stack development**, and creating **Discord apps**. Currently, I'm expanding my skill set while working on exciting projects.
----
+<h2>💼 What I Do</h2>
+<pre>
+💻 Web Development         –  Build dynamic, responsive websites with seamless UX.
+🌐 Full Stack Development  –  From front-end to back-end, scalable modern solutions.
+🤖 Discord Bot Development –  Custom Discord bots for engaging communities.
+🗄️ Database Systems        –  Efficient SQLite design and optimized interactions.
+</pre>
 
-### 💼 **What I Do:**
+<h2>🛠️ Technologies & Tools I Use</h2>
+<pre>
+📝 Languages:    JavaScript, HTML, CSS, C++, Python
+⚛️ Frameworks:   React, Node.js
+🗃️ Databases:    SQLite, MySQL, MongoDB
+🐳 DevOps:       Docker, Git, GitHub Actions
+🔧 Tools:        VS Code, Postman, WireGuard
+</pre>
 
-- **Web Development**: I build **dynamic, responsive** websites that offer seamless user experiences.
-- **Full Stack Development**: From **front-end** to **back-end**, I create **scalable solutions** for modern web applications.
-- **Discord Bot Development**: I design **custom Discord bots** with powerful features for seamless community engagement.
-- **Database Systems**: Expertise in **SQLite**, designing efficient and optimized database interactions.
+<h2>🌱 Currently Learning</h2>
+<pre>
+🔍 Advanced JavaScript concepts
+📦 State Management libraries (Redux, Zustand)
+🖥️ Full-stack frameworks (Next.js, Express)
+⚙️ Infrastructure & DevOps practices
+</pre>
 
-### 🛠️ **Technologies & Tools I Use:**
+<h2>📬 Let's Connect</h2>
+<p>
+🌐 <a href="https://www.y4z.dev" target="_blank" rel="noopener noreferrer">www.y4z.dev</a><br />
+🐙 <a href="https://github.com/y4zdev" target="_blank" rel="noopener noreferrer">GitHub: Y4ZDev</a>
+</p>
 
-- **Languages**: JavaScript, HTML, CSS, C++, Python 
-- **Frameworks**: React, Node.js
-- **Databases**: SQLite, Mysql, MongoDB
-- **DevOps**: Docker, Git, GitHub Actions
-- **Tools**: VS Code, Postman, WireGuard
+<h2>🤝 Open to Collaborations</h2>
+<p>Always looking for <strong>exciting projects</strong> and opportunities to work with talented developers and teams. Let’s create something amazing together!</p>
 
-### 🌱 **Currently Learning:**
+<blockquote>
+⚡ <em>Fun Fact:</em> I love problem-solving and bringing creative ideas to life through code!
+</blockquote>
 
-- 🔍 **Advanced JavaScript** concepts
-- 📦 **State Management** libraries (Redux, Zustand)
-- 🖥️ **Full-stack** frameworks (Next.js, Express)
-- ⚙️ **Infrastructure** and **DevOps** practices
+<hr />
 
-### 📬 **Let's Connect:**
-
-- **Website**: [www.y4z.dev](https://www.y4z.dev)
-- **GitHub**: [Y4ZDev](https://github.com/y4zdev/)
-
-### 🤝 **I'm Open to Collaborations**:
-
-- Always looking for **exciting projects** and opportunities to work with talented developers and teams. Let's create something amazing together!
-
-> [!NOTE] 
-> ⚡ **Fun Fact**: I love problem-solving and bringing creative ideas to life through code! 
+<p align="center">Made with ❤️ by Y4Z • © 2025</p>
