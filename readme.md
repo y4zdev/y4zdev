@@ -1,5 +1,13 @@
+
+<p align="right">
+  <img src="https://badges.pufler.dev/visits/y4zdev/profile" alt="Visits Badge" />
+  <img src="https://badges.pufler.dev/commits/monthly/y4zdev" alt="Commits Badge" />
+
+</p>
 <h1 align="center">👨‍💻 About Me</h1>
-<p align="center">Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.</p>
+<p align="center">
+Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.
+</p>
 <hr />
 
 <h2>💼 What I Do</h2>
