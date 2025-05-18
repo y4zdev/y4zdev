@@ -1,4 +1,4 @@
-
+[![Visits Badge](https://badges.pufler.dev/visits/y4zdev/dp)](https://badges.pufler.dev)
 <p align="right">
   <img src="https://badges.pufler.dev/commits/monthly/y4zdev" alt="Commits Badge" />
   <img src="https://badges.pufler.dev/visits/y4zdev/profile" alt="Visits Badge" />
