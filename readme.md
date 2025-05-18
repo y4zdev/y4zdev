@@ -1,5 +1,4 @@
-![Visits Badge](https://badges.pufler.dev/visits/y4zdev/dp)
-![Commits Badge](https://badges.pufler.dev/commits/all/y4zdev)
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=y4zdev)
 
 <h1 align="center">👨‍💻 About Me</h1>
 <p align="center">
