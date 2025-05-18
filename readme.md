@@ -1,8 +1,7 @@
 
 <p align="right">
-  <img src="https://badges.pufler.dev/visits/y4zdev/profile" alt="Visits Badge" />
   <img src="https://badges.pufler.dev/commits/monthly/y4zdev" alt="Commits Badge" />
-
+  <img src="https://badges.pufler.dev/visits/y4zdev/profile" alt="Visits Badge" />
 </p>
 <h1 align="center">👨‍💻 About Me</h1>
 <p align="center">
