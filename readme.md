@@ -1,5 +1,3 @@
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=y4zdev)
-
 <h1 align="center">👨‍💻 About Me</h1>
 <p align="center">
 Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.
