@@ -1,8 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/y4zdev/dp)](https://badges.pufler.dev)
-<p align="right">
-  <img src="https://badges.pufler.dev/commits/monthly/y4zdev" alt="Commits Badge" />
-  <img src="https://badges.pufler.dev/visits/y4zdev/profile" alt="Visits Badge" />
-</p>
+[![Commits Badge](https://badges.pufler.dev/commits/all/y4zdev)](https://badges.pufler.dev)
+
 <h1 align="center">👨‍💻 About Me</h1>
 <p align="center">
 Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.
