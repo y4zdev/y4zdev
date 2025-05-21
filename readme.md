@@ -43,5 +43,4 @@ Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web develop
 </blockquote>
 
 <hr />
-
 <p align="center">Made with ❤️ by Y4Z • © 2025</p>
