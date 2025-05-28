@@ -14,11 +14,11 @@ Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web develop
 
 <h2>🛠️ Technologies & Tools I Use</h2>
 <pre>
-📝 Languages:    JavaScript, HTML, CSS, C++, Python
-⚛️ Frameworks:   React, Node.js
-🗃️ Databases:    SQLite, MySQL, MongoDB
-🐳 DevOps:       Docker, Git, GitHub Actions
-🔧 Tools:        VS Code, Postman, WireGuard
+📝 Languages   : JavaScript, HTML, CSS, C++, Python
+⚛️ Frameworks  : React, Node.js
+🗃️ Databases   : SQLite, MySQL, MongoDB
+🐳 DevOps      : Docker, Git, GitHub Actions
+🔧 Tools       : VS Code, Postman, WireGuard
 </pre>
 
 <h2>🌱 Currently Learning</h2>
