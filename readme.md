@@ -4,7 +4,6 @@
 Hi there! I'm a <strong>freelancer</strong> passionate about <strong>web development</strong>, <strong>full-stack development</strong>, and creating <strong>Discord apps</strong>. Currently, I'm expanding my skills while working on exciting projects.
 </p>
 <hr />
-
 <h2>💼 What I Do</h2>
 <pre>
 💻 Web Development         –  Build dynamic, responsive websites with seamless UX.
