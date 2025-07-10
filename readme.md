@@ -21,7 +21,7 @@
   &nbsp;
   <a href="mailto:contact@y4z.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
-  <a href="https://discord.gg/VSapySG7FJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/discord/VSapySG7FJ?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"></a>
+  <a href="https://discord.gg/VSapySG7FJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   
 </p>
 
