@@ -80,7 +80,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=y4zdev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4zdev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.vercel.app/api?user=y4zdev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
