@@ -95,7 +95,7 @@
   <details>
     <summary>🌱 My Current Learning Journey</summary>
     <br>
-    I'm always pushing my boundaries. Here's what's on my learning radar:
+    I'm always pushing `my boundaries`. Here's what's on my learning radar:
     <ul>
       <li>Advanced State Management with <strong>Redux & Zustand</strong></li>
       <li>Diving deeper into <strong>Full-Stack Next.js</strong> patterns</li>
